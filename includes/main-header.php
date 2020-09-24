@@ -20,7 +20,7 @@
 <div class="logo">
 	<a href="index.php">
 		
-		<h2>Shopping Portal</h2>
+		<h2>Shea_Nayomi</h2>
 
 	</a>
 </div>		
